@@ -8,7 +8,7 @@ gericht_name = "Raclette Mengen"
 # Hier definierst du die Zutaten pro EINER Person
 # Format: "Zutat": [Menge, "Einheit"]
 basis_mengen = {
-    "Kartoffel": [150, "g"],
+    "Kartoffel": [1, "Stück"],
     "Faschiertes": [80, "g"],
     "Fleisch (Rind+Huhn)": [180, "g"],
     "Gnocchi": [70, "g"],
